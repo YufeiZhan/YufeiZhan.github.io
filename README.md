@@ -12,7 +12,7 @@ I'm not super social but like making friends, so don't hesitate to reach out to 
 
 (Just starting to make this website so there are still a lot to be updated soon...)
 
-## Educational Background
+# Educational Background
 
 ### University of Edinburgh (2019 - 2023)
 * Edinburgh, UK
@@ -28,10 +28,10 @@ I'm not super social but like making friends, so don't hesitate to reach out to 
 * Shenzhen, China
 
 
-## Contact Me
+# Contact Me
 - Cel: (+44)07421475529 /(+86)13603077790
 - Facebook: Yufei Zhan
 - Instagram: selina_zhan (follow me and I'll follow you back ;) )
-- E-mail: yufeizhanselina@gmail.com [yufeizhanselina@gmail.com]
+- E-mail: yufeizhanselina@gmail.com
 - Address: Pollock Halls of Residence, 18 Holyrood Park Road, Edinburgh, UK, EH16 5AY
 - Wechat: selinazhanyufei
