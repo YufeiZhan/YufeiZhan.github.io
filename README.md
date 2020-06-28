@@ -35,3 +35,4 @@ I'm not super social but like making friends, so don't hesitate to reach out to 
 - E-mail: yufeizhanselina@gmail.com
 - Address: Pollock Halls of Residence, 18 Holyrood Park Road, Edinburgh, UK, EH16 5AY
 - Wechat: selinazhanyufei
+- LinkedIn: Selina Zhan
