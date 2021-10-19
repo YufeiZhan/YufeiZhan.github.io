@@ -8,7 +8,7 @@ In my free time, I've been continuously engaging in various kinds of teaching ac
 
 Living in my own studio in Edinburgh now, I've grasped every chance to develop my cooking skill. Luckily, being a foodie and a good cook at the same time, I am able to satisfy my own appetite with food that is delicious and healthy at the same time. :)
 
-There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Currently I'm not playing GuZheng or the piano because I don't have any instruments, but I'm listening to some good music, which is some consolation.
+There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Currently I'm not playing GuZheng or the piano because I don't have any instruments at hand, but I'm listening to some good music, which is some consolation.
 
 # Educational Background
 
