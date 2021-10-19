@@ -1,22 +1,22 @@
 # About Me
 
-Hi, I'm Yufei Zhan (Selina) from Shenzhen, China. I just graduated from my high school and am currently doing my CS bachelor's degree at the University of Edinburgh (2023).
+Hi, I'm Yufei Zhan (Selina) from the University of Edinburgh. I'm currently at my third year of CS (BSc Hons). My hometown is at Shenzhen, China.
 
-I started to gain interst in Computer Science after I went to the High School Summer College offered by Stanford University at grade 10. Of course, it was my interest in Math first that led my exlploration in Computer Science. Even when I was quite young, I loved studying Math and solving math problems. (Yea, that's my cliché story 😊)
+I started to gain interst in CS after I went to the Stanford University's HSSC program at grade 10. I've always loved problem solving, which is inherently present in Math and CS, my favorite subjects since young. While busy with the courses at the moment, I'm looking for some internship opportunities for my 2022 summer.
 
-Personally, I love music to death. I learnt Guzheng at an early age and started to play the piano from the junior high school. Then, in my high school, I created a Chinese ensemble called Zhaohui, where Chinese instrument lovers develop passions and do projects together. We performed on Christmas and New Year concerts and regularly visited elderly houses to give out free performances. Other than traditional Chinese music, we do various types of music! [Check out our videos!](https://github.com/YufeiZhan/YufeiZhan.github.io/edit/master/README.md)
+In my free time, I've been continuously engaging in various kinds of teaching activities. Before being the tutor for DMP course and the demonstrator for IADS course for this semester, I've taught IGCSE CS to high school students and IELTS for a college student as well. In other time, I've enjoyed watching thriller, crime, detective series. Breaking Bad, Money Heist and Sherlock Holmes are the onces that you definitely don't want to miss! I would also recommend Squid Game, which is so popular recently.
 
-Now in my free time, I take online courses such as Algorithms and Machine Learning on Coursera and try to hone my programming skills by joining various coding competitions. I also join in HYPED and learn how C++ and Git work and am working on a CS project with my friend. In the weekends, I teach IELTS and get paid! I am so exciting cuz it's my first time earning money  myself!
+Living in my own studio in Edinburgh now, I've grasped every chance to develop my cooking skill. Luckily, being a foodie and a good cook at the same time, I am able to satisfy my own appetite with food that is delicious and healthy at the same time. :)
 
-I'm not super social but like making friends, so don't hesitate to reach out to me if you want to have a nerdy, musical friend!
-
-(Just starting to make this website so there are still a lot to be updated soon...)
+Personally, I love music. I learnt Guzheng at an early age and played the piano for a while afterwards. I created a Chinese ensemble ZhaoHui in my high school, where Chinese instrument lovers develop passions and perform various kinds of music pieces together. We've performed in school events, charity events and regularly visited nursing homes too. [Check out our videos!](https://github.com/YufeiZhan/YufeiZhan.github.io/edit/master/README.md)
 
 # Educational Background
 
 ### University of Edinburgh (2019 - 2023)
 * Edinburgh, UK
-- B.S Computer Science
+- BSc Hons Computer Science
+- Nominated to exchange to NUS
+- Course Details on LinkedIn (See Contact Me for link)
 
 ### Shenzhen College of International Education (2015 - 2019)
 * Shenzhen, China
@@ -27,12 +27,11 @@ I'm not super social but like making friends, so don't hesitate to reach out to 
 ### No. 2 Yucai Junior High School
 * Shenzhen, China
 
-
 # Contact Me
 - Cel: (+44)07421475529 /(+86)13603077790
 - Facebook: Yufei Zhan
-- Instagram: selina_zhan (follow me and I'll follow you back ;) )
+- Instagram: selina_zhan
 - E-mail: yufeizhanselina@gmail.com
 - Address: Pollock Halls of Residence, 18 Holyrood Park Road, Edinburgh, UK, EH16 5AY
 - Wechat: selinazhanyufei
-- LinkedIn: Selina Zhan
+- LinkedIn: www.linkedin.com/in/selina-zhan-yufei
