@@ -8,7 +8,7 @@ In my free time, I've been continuously engaging in various kinds of teaching ac
 
 Living in my own studio in Edinburgh now, I've grasped every chance to develop my cooking skill. Luckily, being a foodie and a good cook at the same time, I am able to satisfy my own appetite with food that is delicious and healthy at the same time. :)
 
-Personally, I love music. I learnt Guzheng at an early age and played the piano for a while afterwards. I created a Chinese ensemble ZhaoHui in my high school, where Chinese instrument lovers develop passions and perform various kinds of music pieces together. We've performed in school events, charity events and regularly visited nursing homes too. [Check out our videos!](https://github.com/YufeiZhan/YufeiZhan.github.io/edit/master/README.md)
+There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Currently I'm not playing GuZheng or the piano because I don't have any instruments, but I'm listening to some good music at the moment.
 
 # Educational Background
 
