@@ -4,11 +4,11 @@ Hi, I'm Yufei Zhan (Selina) from the University of Edinburgh. I'm currently at m
 
 I started to gain interst in CS after I went to the Stanford University's HSSC program at grade 10. I've always loved problem solving, which is inherently present in Math and CS, my favorite subjects since young. While busy with the courses at the moment, I'm looking for some internship opportunities for my 2022 summer.
 
-In my free time, I've been continuously engaging in various kinds of teaching activities. Before being the tutor for DMP course and the demonstrator for IADS course for this semester, I've taught IGCSE CS to high school students and IELTS for a college student as well. Some other time, I've enjoyed watching thriller, crime, detective series. Breaking Bad, Money Heist and Sherlock Holmes are the ones that you definitely don't want to miss! I would also recommend Squid Game, which is so popular recently.
+In my free time, I've been continuously engaging in various kinds of teaching activities. Before being the tutor for DMP course and the demonstrator for IADS course for this semester, I've taught IGCSE CS to high school students and IELTS for a college student as well. Some other time, I've enjoyed watching thriller, crime, detective series. Breaking Bad, Money Heist and Sherlock Holmes are the ones that you definitely don't want to miss! I would also recommend Squid Game. 
 
-Living in my own studio in Edinburgh now, I've grasped every chance to develop my cooking skill. Luckily, being a foodie and a good cook at the same time, I am able to satisfy my own appetite with food that is delicious and healthy at the same time. :)
+Living in my own studio in Edinburgh now, I've become a foodie and a good cook. I enjoy cooking delicious and healthy food. 
 
-There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Currently I'm not playing GuZheng or the piano because I don't have any instruments at hand, but I'm listening to some good music, which is some consolation.
+There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Therefore, I've joined in Edinburgh Chinese Music Ensemble as a Guzheng plaer.
 
 # Educational Background
 
