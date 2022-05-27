@@ -6,9 +6,7 @@ I started to gain interst in CS after I went to the Stanford University's HSSC p
 
 In my free time, I've been continuously engaging in various kinds of teaching activities. Before being the tutor for DMP course and the demonstrator for IADS course for this semester, I've taught IGCSE CS to high school students and IELTS for a college student as well. Some other time, I've enjoyed watching thriller, crime, detective series. Breaking Bad, Money Heist and Sherlock Holmes are the ones that you definitely don't want to miss! I would also recommend Squid Game. 
 
-Living in my own studio in Edinburgh now, I've become a foodie and a good cook. I enjoy cooking delicious and healthy food. 
-
-There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Therefore, I've joined in Edinburgh Chinese Music Ensemble as a Guzheng plaer.
+Living in my own studio in Edinburgh now, I've become a foodie and a good cook. I enjoy cooking delicious and healthy food. There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Therefore, I've joined in Edinburgh Chinese Music Ensemble as a Guzheng plaer.
 
 # Educational Background
 
