@@ -1,14 +1,17 @@
 # About Me
 
-Hi, I'm Yufei Zhan (Selina) from the University of Edinburgh. I'm currently at my third year of CS (BSc Hons). My hometown is at Shenzhen, China.
+Hi, I'm Yufei Zhan (Selina). I have just graduated from the University of Edinburgh and I'm currently pursing my CS master in Duke University. I come from Shenzhen, China, which was originally a fishing village in the past.
 
-I started to gain interst in CS after I went to the Stanford University's HSSC program at grade 10. I've always loved problem solving, which is inherently present in Math and CS, my favorite subjects since young. While busy with the courses at the moment, I'm looking for some internship opportunities for my 2022 summer.
+I started to gain interst in CS after I went to the Stanford University's HSSC program at grade 10. I've always loved problem solving, which is inherently present in Math and CS. Therefore, they naturally beaome my favorite subjects. I started CS with coding in Java, expanding into software engineering, data science, machine learning, human-computer interaction later on during my undergraduate studies. While roaming between all these subfields in CS, I decided to start a master to further explore my interest.
 
-In my free time, I've been continuously engaging in various kinds of teaching activities. Before being the tutor for DMP course and the demonstrator for IADS course for this semester, I've taught IGCSE CS to high school students and IELTS for a college student as well. Some other time, I've enjoyed watching thriller, crime, detective series. Breaking Bad, Money Heist and Sherlock Holmes are the ones that you definitely don't want to miss! I would also recommend Squid Game. 
+In my free time, I'm passionate about education and sustainability in general. Thus I have been finding ways to use my academic interest to tackle real-world issues under these two topics. I have been tutor for IGCSE CS to high school students, IELTS speaking tutor to a college student, and tutor and demonstrator for two of my undergraduate courses (DMP and IADS). My final-year dissertation is about designing a course evaluation platform specifically for UoE School of Informatics. Otherwise, I was earning carbon iteracy certificate and have conducted research on vegetation reduction and urban expansion using data science.
 
-Living in my own studio in Edinburgh now, I've become a foodie and a good cook. I enjoy cooking delicious and healthy food. There's an orchestra besides where I live. Hearing their reheasals reminds me of my high school Chinese ensemble Zhaohui. At the time, We would actively show up in various school events, charity events and even nursing homes in the city. Therefore, I've joined in Edinburgh Chinese Music Ensemble as a Guzheng plaer.
+Also, I love watching thriller, crime, detective series. Breaking Bad, Money Heist and Sherlock Holmes are the ones I recommend to everyone. I love cooking and I always cook with my roommates, healthy and delicious. I am a Guzheng player and have been in various ensembles.
+
 
 # Educational Background
+
+### Duke University (2023-2025)
 
 ### University of Edinburgh (2019 - 2023)
 * Edinburgh, UK
@@ -26,10 +29,10 @@ Living in my own studio in Edinburgh now, I've become a foodie and a good cook. 
 * Shenzhen, China
 
 # Contact Me
-- Cel: (+44)07421475529 /(+86)13603077790
+- Cel: +1 (919) 3386732 / (+44)07421475529 /(+86)13603077790
 - Facebook: Yufei Zhan
 - Instagram: selina_zhan
 - E-mail: yufeizhanselina@gmail.com
-- Address: Pollock Halls of Residence, 18 Holyrood Park Road, Edinburgh, UK, EH16 5AY
+- Address: 3806 University Drive, Durham, NC, 27707
 - Wechat: selinazhanyufei
 - LinkedIn: www.linkedin.com/in/selina-zhan-yufei
